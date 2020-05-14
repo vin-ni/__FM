@@ -4,6 +4,8 @@ a personal audio content curator – cleaning your local radio from stress-induc
 
 this is v0.1, supposed to be a proof of concept. there's a lot of work to be done and everyone is invited to improve it!
 
+Full documentation can be found [here](https://newmedia.medienhaus.udk-berlin.de/projects/2020-ss-k/fm)
+
 ## Start
 
 ```python
