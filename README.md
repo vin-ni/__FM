@@ -28,12 +28,12 @@ playCleanedRadio.py
 
 ### getRadioStream
 
-[] put everything into one script
-[] improve the audio quality
-[] better timestamps with different speech rec library
-[] make everything async
+- [] put everything into one script
+- [] improve the audio quality
+- [] better timestamps with different speech rec library
+- [] make everything async
 
 ### getRadioStream
 
-[] improve performance of audio player (and bring it to getRadioStream)
-[] delete used files
+- [] improve performance of audio player (and bring it to getRadioStream)
+- [] delete used files
