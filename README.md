@@ -37,3 +37,7 @@ playCleanedRadio.py
 
 - [ ] improve performance of audio player (and bring it to getRadioStream)
 - [ ] delete used files
+
+### Another Idea
+
+Another idea came to my mind, to pipe the radio stream through super collider and dynamically fade to a second audio track when the word is discovered. (This would not allow for dynamic lengthening to add longer / shorter words though.
